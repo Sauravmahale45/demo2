@@ -5,3 +5,11 @@ syllabus about
 python 
 satatitics
 ml
+
+#2nd
+data analtics
+syllabus
+python 
+satitics
+excel
+ad.excel
